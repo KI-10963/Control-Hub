@@ -15,6 +15,9 @@
       <li>Etpark Wired Controller for PS4 (REV-39-1865)</li>
       <li>USB A Female to Micro USB (REV-31-1807)</li>
       <li>Windows PC running the REV Hardware Client</li></ul></p>
+  <h3>REV Hardware Client</h3>
+  <p><a href="https://docs.revrobotics.com/duo-control/managing-the-control-system/rev-hardware-client">Download Latest Version</a></p>
+  
 
 </body>
 </html>
